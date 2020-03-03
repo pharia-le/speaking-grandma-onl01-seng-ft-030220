@@ -13,6 +13,10 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma(str)
+<<<<<<< HEAD
+=======
+  
+>>>>>>> b4424a178a3822ab9b93aac90a57bec657cd09f2
   if str == "I LOVE YOU GRANDMA!"
     return "I LOVE YOU TOO PUMPKIN!"
   elsif str == str.downcase
